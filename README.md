@@ -1,4 +1,3 @@
-navtej/README.md
 Hi 👋, I'm Swapanth Vakapalli
 Full Stack Developer
 
