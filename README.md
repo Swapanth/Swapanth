@@ -35,8 +35,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
